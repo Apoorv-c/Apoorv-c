@@ -3,7 +3,7 @@
 <h3 align="center">🚀 AI | ML | Cyber Security Enthusiast</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Developer;Cyber+Security+Learner;C+++%7C+++Python+%7C+Web+Dev;Building+Cool+Things+Everyday&center=true&width=600&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Developer;Cyber+Security+Learner;Python+%7C+ C++ +%7C+Web+Dev;Building+Cool+Things+Everyday&center=true&width=600&height=45">
 </p>
 
 ---
